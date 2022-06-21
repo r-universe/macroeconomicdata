@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dateutils"]
+	path = dateutils
+	url = https://github.com/macroeconomicdata/dateutils
+	shallow = true
+	registered = true
